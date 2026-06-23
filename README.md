@@ -21,4 +21,4 @@ Esta aplicação consiste em uma tela de login moderna com efeito e imagem de fu
 ## Objetivo
 Aprimorar minhas habilidades em desenvolvimento Front-End através da criação de interfaces modernas e funcionais.
 
-✅ Projeto desenvolvido para fins de estudo.
+Projeto desenvolvido para fins de estudo.
