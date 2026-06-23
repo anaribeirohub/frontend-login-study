@@ -1,5 +1,5 @@
 # frontend-login-study
-## Login Page 🔐
+## Login Page
 
 Projeto desenvolvido com HTML e CSS durante meus estudos de Desenvolvimento Front-End.
 
