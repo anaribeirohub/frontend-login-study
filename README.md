@@ -1,2 +1,24 @@
 # frontend-login-study
-Página de login responsiva desenvolvida com HTML e CSS como parte dos meus estudos em Front-End. Projeto criado a partir de aulas e tutoriais do YouTube para praticar formulários, estilização moderna, efeitos visuais e organização de código.
+## Login Page 🔐
+
+Projeto desenvolvido com HTML e CSS durante meus estudos de Desenvolvimento Front-End.
+
+## Sobre o Projeto
+Esta aplicação consiste em uma tela de login moderna com efeito e imagem de fundo, criada para praticar conceitos fundamentais de HTML e CSS.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+
+## Conceitos Praticados
+- Estruturação semântica com HTML
+- Formulários
+- Flexbox
+- Efeito
+- Responsividade
+- Estilização avançada com CSS
+
+## Objetivo
+Aprimorar minhas habilidades em desenvolvimento Front-End através da criação de interfaces modernas e funcionais.
+
+✅ Projeto desenvolvido para fins de estudo.
